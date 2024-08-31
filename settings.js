@@ -4,13 +4,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "254746764468"
+global.ownernomer = "221786774622"
 global.ownername = "☬RADIATOR-BUGBOT☬"
 global.ytname = "❖RADIATOR-BUGBOT❖"
 global.socialm = "GitHub: Arlo-dragony"
 global.location = "Africa, Kenya, Bomet"
 
-global.ownernumber = '254746764468,254702713600,254746764468'  //creator number
+global.ownernumber = '221786774622,221786774622,221786774622'  //creator number
 global.ownername = '❖RADIATOR-BUGBOT❖' //owner name
 global.botname = '❖RADIATOR-BUGBOT❖' //name of the bot
 
@@ -29,7 +29,7 @@ global.link = 'https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q'
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
+global.autoRecording = true //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
